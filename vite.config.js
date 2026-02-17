@@ -10,7 +10,7 @@ export default defineConfig(({ command }) => {
     },
     root: 'src',
 
-    base: '/YourEnergy-app/',
+    base: './',
 
     build: {
       sourcemap: true,
